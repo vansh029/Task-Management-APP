@@ -28,11 +28,11 @@ This is a simple Task Management Application that allows users to create, read, 
 2. Dependencies:
 
 bash
-npm install
-npm i axios
-npm install express body-parser cors
-npm install @mui/material @emotion/react @emotion/styled
-npm i @mui/icons-material
+- npm install
+- npm i axios
+- npm install express body-parser cors
+- npm install @mui/material @emotion/react @emotion/styled
+- npm i @mui/icons-material
 
 ### Run the backend server:
 
