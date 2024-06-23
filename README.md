@@ -36,13 +36,13 @@ bash
 
 ### Run the backend server:
 
-cd backend
-node server.js
+- cd backend
+- node server.js
 
 ### Run the frontend:
 
-npm run dev
-Open http://localhost:3000 with your browser to see the result.
+- npm run dev
+- Open http://localhost:3000 with your browser to see the result.
 
 ### API Endpoints
 
@@ -60,6 +60,6 @@ This project uses Git for version control. You can clone the repository and see 
 
 ### Additional Notes
 
-    Design Choices: Used Material-UI for a modern, responsive UI and custom CSS for fine-tuned styling.
-    Challenges Faced: Managing state in React and ensuring seamless asynchronous operations between front-end and back-end.
-    Future Improvements: Implement user authentication, integrate a persistent database, and add enhanced task management features.
+- Design Choices: Used Material-UI for a modern, responsive UI and custom CSS for fine-tuned styling.
+- Challenges Faced: Managing state in React and ensuring seamless asynchronous operations between front-end and back-end.
+- Future Improvements: Implement user authentication, integrate a persistent database, and add enhanced task management features.
